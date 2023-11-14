@@ -45,12 +45,13 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 
 trying some code here
 
-```c++
-for(int i=0; i<n; i++){
-  // print i
-  cout << i << "pringint something";
+{% raw %}
+
+for(int i=0; i<n; i++) {
+  cout << i << "[rinting something";
 }
-```
+
+{% endraw %}
 
 <footer>
 
