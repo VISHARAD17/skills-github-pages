@@ -44,12 +44,13 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 trying some code here
-'''c++
+
+```c++
 for(int i=0; i<n; i++){
   // print i
   cout << i << "pringint something";
 }
-'''
+```
 
 <footer>
 
